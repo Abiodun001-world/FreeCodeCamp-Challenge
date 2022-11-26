@@ -1,3 +1,3 @@
 # FCC: Technical Documentation Page
 ## FreeCodeCamp Techincal Documentation Challenge with HTML and CSS.
-https://freecodecamp-technicaldocumentation.netlify.app/
+https://abiodun001-world.github.io/FreeCodeCamp-Challenge/
